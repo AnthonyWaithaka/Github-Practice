@@ -1,3 +1,3 @@
-function multiplier(x, z) {
-    return x * z;
+function multiplier(x, y) {
+    return x * y;
 }
